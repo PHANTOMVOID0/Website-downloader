@@ -54,6 +54,3 @@ Download the complete source code of any website (including all assets) 🔨.
 
 Thank you,
 
-Email: me@ahmed-ibrahim.com
-
-https://www.ahmed-ibrahim.com
